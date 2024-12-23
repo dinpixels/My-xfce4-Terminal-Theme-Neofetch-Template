@@ -1,4 +1,4 @@
-# My xfce4 Theme Template
+# My xfce4 Terminal Theme Template
 Uses oh-my-posh and applies the catppuccin theme to the xfce4 terminal.  
 This template can be copy-pasted to user's directory assuming they already have oh-my-posh installed.
 
