@@ -3,7 +3,7 @@
 <channel name="xfce4-terminal" version="1.0">
   <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_SOLID"/>
   <property name="background-darkness" type="double" value="1"/>
-  <property name="color-background" type="string" value="#417a30304646"/>
+  <property name="color-background" type="string" value="#414130304646"/>
   <property name="color-cursor" type="string" value="#dcdcdc"/>
   <property name="color-palette" type="string" value="rgb(65,48,70);rgb(112,80,80);rgb(96,180,138);rgb(223,175,143);rgb(154,184,215);rgb(220,140,195);rgb(140,208,211);rgb(220,220,220);rgb(112,144,128);rgb(220,163,163);rgb(114,213,163);rgb(240,223,175);rgb(148,191,243);rgb(236,147,211);rgb(147,224,227);rgb(255,255,255)"/>
   <property name="font-name" type="string" value="MesloLGM Nerd Font 10"/>
@@ -13,7 +13,7 @@
   <property name="misc-menubar-default" type="bool" value="true"/>
   <property name="misc-toolbar-default" type="bool" value="false"/>
   <property name="scrolling-lines" type="uint" value="998"/>
-  <property name="color-foreground" type="string" value="#dcdc8a8adddd"/>
+  <property name="color-foreground" type="string" value="#dcdc8c8cc3c3"/>
   <property name="color-background-vary" type="bool" value="false"/>
   <property name="color-cursor-foreground" type="string" value=""/>
   <property name="color-cursor-use-default" type="bool" value="true"/>
@@ -25,7 +25,7 @@
   <property name="color-bold-is-bright" type="bool" value="true"/>
   <property name="color-use-theme" type="bool" value="false"/>
   <property name="tab-activity-color" type="string" value="#aa0000"/>
-  <property name="misc-default-geometry" type="string" value="80x32"/>
+  <property name="misc-default-geometry" type="string" value="80x26"/>
   <property name="cell-width-scale" type="double" value="1"/>
   <property name="cell-height-scale" type="double" value="1"/>
   <property name="misc-slim-tabs" type="bool" value="true"/>
@@ -39,4 +39,5 @@
   <property name="scrolling-on-output" type="bool" value="true"/>
   <property name="kinetic-scrolling" type="bool" value="true"/>
   <property name="overlay-scrolling" type="bool" value="true"/>
+  <property name="font-use-system" type="bool" value="false"/>
 </channel>
