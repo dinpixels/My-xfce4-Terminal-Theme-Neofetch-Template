@@ -7,6 +7,20 @@ This template can be copy-pasted to user's directory assuming they already have 
 **WARNING!** This will completely replace what settings you have for your own terminal.  
 I have nothing to do if anything breaks in your end. Proceed only if you know what you're doing.
 
+## Table of Contents
+- [Quick Guide](#quick%20guide)
+- [Formatting](#formatting)
+- [ASCII Art](#ascii%20art)
+- [Dependencies](#dependencies)
+- [Tools](#tools)
+- [To-do](#to-do)
+
+## Quick guide
+- Install oh-my-posh (see [this guide](https://calebschoepp.com/blog/2021/how-to-setup-oh-my-posh-on-ubuntu/))
+- Download this template
+- After following the guide and the installation, copy this template's files to the user directory `${HOME}`
+- Done! With that the changes should be applied when running a new terminal instance.
+
 ## Formatting
 Most stuff here are hand-coded and **are static** as I didn't liked how limited the original formatting.  
 There's an exception, the weather info is requested from [wttr.in](https://wttr.in) via `curl`.
@@ -31,13 +45,8 @@ To make the colors work correctly, the ASCII art is inverted in color. Overall, 
 - **ASCII-Generator** - [https://ascii-generator.site/](https://ascii-generator.site/), for image-to-ASCII conversion
 - **Neofetch** - [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch), for displaying system info and more in terminal
 
-## Quick guide
-- Install oh-my-posh (see [this guide](https://calebschoepp.com/blog/2021/how-to-setup-oh-my-posh-on-ubuntu/))
-- Download this template
-- After following the guide and the installation, copy this template's files to the user directory `${HOME}`
-- Done! With that the changes should be applied when running a new terminal instance.
-
 ## To-do
 - [x] Add neofetch config
 - [ ] Add VSCodium config
 - [ ] Setup script
+- [ ] Add a tutorial for making a colored ASCII art
