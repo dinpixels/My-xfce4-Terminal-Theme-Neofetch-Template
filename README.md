@@ -8,9 +8,9 @@ This template can be copy-pasted to user's directory assuming they already have 
 I have nothing to do if anything breaks in your end. Proceed only if you know what you're doing.
 
 ## Table of Contents
-- [Quick Guide](#quick%20guide)
+- [Quick Guide](#quick-guide)
 - [Formatting](#formatting)
-- [ASCII Art](#ascii%20art)
+- [ASCII Art](#ascii-art)
 - [Dependencies](#dependencies)
 - [Tools](#tools)
 - [To-do](#to-do)
